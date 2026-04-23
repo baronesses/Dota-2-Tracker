@@ -17,12 +17,11 @@ Instead of manually checking enemy items and calculating net worth, the applicat
 * 🔮 **Predictive Analytics:** An algorithm that calculates enemy net worth and current inventory to predict their next major item purchases.
 * 🛡️ **Tactical Assistant:** Automatically highlights high-impact enemy items (e.g., BKB, Blink Dagger) and suggests optimal counter-items tailored to the specific enemy draft.
 * ⚔️ **Counter-Pick System:** Draft analysis to suggest the most statistically viable heroes against the enemy lineup.
-
-* 
+ ![Dashboard](assets/photo_2026-03-24_03-37-37.jpg)
 
 ## 🛠️ Tech Stack
-* **Language/Backend:** [Python]
-* **Frontend/UI:** [PyQt6]
+* **Language/Backend:** Python
+* **Frontend/UI:** PyQt6
 * **Data Extraction:** Game State Integration (GSI) / Memory Parsing
 
 ---

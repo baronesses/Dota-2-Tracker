@@ -18,9 +18,11 @@ Instead of manually checking enemy items and calculating net worth, the applicat
 * 🛡️ **Tactical Assistant:** Automatically highlights high-impact enemy items (e.g., BKB, Blink Dagger) and suggests optimal counter-items tailored to the specific enemy draft.
 * ⚔️ **Counter-Pick System:** Draft analysis to suggest the most statistically viable heroes against the enemy lineup.
 
+* 
+
 ## 🛠️ Tech Stack
-* **Language/Backend:** [Тут впиши свой язык, например: Python / Node.js]
-* **Frontend/UI:** [Тут впиши на чем интерфейс: React / Vue / HTML&CSS]
+* **Language/Backend:** [Python]
+* **Frontend/UI:** [PyQt6]
 * **Data Extraction:** Game State Integration (GSI) / Memory Parsing
 
 ---
